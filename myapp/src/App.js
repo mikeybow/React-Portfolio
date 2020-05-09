@@ -6,13 +6,16 @@ import About from "./pages/About";
 
 function App() {
   return (
-    <Router>
-      <Nav />
-      <Route exact path="/" component={About}/>
-      {/* <Route path="/contact" component={Contact}/>
-      <Route path="/portfolio" component={Portfolio}/>
-      <Footer /> */}
-    </Router>
+    <div>
+      <Router>
+        <Nav />
+        <Route exact path="/" component={About}/>
+        {/* <Route path="/contact" component={Contact}/>
+        <Route path="/portfolio" component={Portfolio}/>
+        <Footer /> */}
+     </Router>
+
+    </div>
   );
 }
 
