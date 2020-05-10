@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c042d421.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.d4b9e58c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.d4b9e58c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.9e5f9479.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.9e5f9479.js.map",
+    "static/js/2.eef3a445.chunk.js": "/React-Portfolio/static/js/2.eef3a445.chunk.js",
+    "static/js/2.eef3a445.chunk.js.map": "/React-Portfolio/static/js/2.eef3a445.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.11388f40e9e7dce235b6c59e6d99b3ff.js": "/React-Portfolio/precache-manifest.11388f40e9e7dce235b6c59e6d99b3ff.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.c042d421.chunk.css.map": "/React-Portfolio/static/css/main.c042d421.chunk.css.map",
+    "static/js/2.eef3a445.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.eef3a445.chunk.js.LICENSE.txt",
+    "static/media/Michael-Bowman-Resume.pdf": "/React-Portfolio/static/media/Michael-Bowman-Resume.c99f9b9a.pdf",
+    "static/media/MichaelBowman.jpg": "/React-Portfolio/static/media/MichaelBowman.c82ccdcb.jpg",
+    "static/media/code.png": "/React-Portfolio/static/media/code.a557812c.png",
+    "static/media/github-mark.png": "/React-Portfolio/static/media/github-mark.09f5c6ae.png",
+    "static/media/group-work-photo.jpg": "/React-Portfolio/static/media/group-work-photo.1f944003.jpg",
+    "static/media/resume-icon-16.png": "/React-Portfolio/static/media/resume-icon-16.9725ddd2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5f9479.js",
+    "static/js/2.eef3a445.chunk.js",
+    "static/css/main.c042d421.chunk.css",
+    "static/js/main.d4b9e58c.chunk.js"
+  ]
+}
